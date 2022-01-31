@@ -1,0 +1,29 @@
+div#game{
+    transform: none !important;
+}
+div#btnArea {
+    display: flex;
+    max-width: 370px;
+    flex-wrap: wrap;
+}
+.fs {
+    max-width: 395px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+body{
+    color: #fff;
+}
+.btn{
+    padding: 0 !important;
+}
+.foundTxt{
+    display: none;
+}
+@media (max-width:500px){
+    div#btnArea { 
+        max-width: 280px; 
+        margin: auto;
+    }
+}
