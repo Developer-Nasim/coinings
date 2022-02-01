@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>Gamebll - eSports and Gaming Template</title>
-
+<meta name="verified-code" content="ce96c62b-b10e-45fa-b0e3-e1b58b02932e">
     <link rel="shortcut icon" href="{{asset('frontend/assets/images/fav.png')}}" type="image/x-icon">
     <link rel="stylesheet" href="{{asset('frontend/assets/css/bootstrap.min.css')}}">
     <link rel="stylesheet" href="{{asset('frontend/assets/css/fontawesome.min.css')}}">
