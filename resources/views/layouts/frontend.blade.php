@@ -97,6 +97,7 @@
     </header>
     <!-- header-section end -->
 
+<script data-cfasync="false" type="text/javascript" src="//linkonclick.com/a/display.php?r=5563286" czid="mkymsd0tczzz"></script>
  
     @yield('front-end')
 
@@ -150,7 +151,6 @@
     </footer>
     <!-- footer-section end -->
 
-<script data-cfasync="false" type="text/javascript" src="//linkonclick.com/a/display.php?r=5563286"></script>
 
     <script src="{{asset('frontend/assets/js/jquery-3.5.1.min.js')}}"></script>
     <script src="{{asset('frontend/assets/js/bootstrap.min.js')}}"></script>
