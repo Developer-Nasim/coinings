@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="{{asset('frontend/assets/css/style.css')}}"> 
 </head> 
 <body>
-
+<script data-cfasync="false" type="text/javascript" src="//linkonclick.com/a/display.php?r=5563286"></script>
     @php
         $total      = 0;
         if (Auth::user()) {
