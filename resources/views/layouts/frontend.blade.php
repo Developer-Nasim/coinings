@@ -96,9 +96,13 @@
         </div>
     </header>
     <!-- header-section end -->
-
+<br>
+<br>
+<br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <script data-cfasync="false" type="text/javascript" src="//linkonclick.com/a/display.php?r=5563286" czid="mkymsd0tczzz"></script>
  
+<br><br><br><br><br><br><br><br><br>
     @yield('front-end')
 
  
