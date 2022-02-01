@@ -160,5 +160,6 @@
     <script src="{{asset('frontend/assets/js/jquery.waypoints.min.js')}}"></script>
     <script src="{{asset('frontend/assets/js/wow.js')}}"></script>
     <script src="{{asset('frontend/assets/js/main.js')}}"></script> 
+    <script type="text/javascript" data-adel="atag" src="//acscdn.com/script/atg.js" czid="mkymsd0tc"></script>
 </body> 
 </html>
