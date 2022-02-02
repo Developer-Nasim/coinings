@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="{{asset('frontend/assets/css/nice-select.css')}}">
     <link rel="stylesheet" href="{{asset('frontend/assets/css/animate.css')}}">
     <link rel="stylesheet" href="{{asset('frontend/assets/css/style.css')}}"> 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7680188574822533"
+     crossorigin="anonymous"></script>
 </head> 
 <body>
     @php
@@ -100,8 +102,6 @@
 <br>
 <br>
 <br><br><br><br><br>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7680188574822533"
-     crossorigin="anonymous"></script>
 <script type="text/javascript">
 	atOptions = {
 		'key' : '4e0c2e603b46a55e936c140cfd84b42f',
