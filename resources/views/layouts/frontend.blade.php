@@ -98,10 +98,24 @@
             </div>
         </div>
     </header>
-    <!-- header-section end -->
-<br>
-<br>
+    <!-- header-section end --> 
 <br><br><br><br><br>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7680188574822533"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-6t+ed+2i-1n-4w"
+     data-ad-client="ca-pub-7680188574822533"
+     data-ad-slot="8471740597"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
 <script type="text/javascript">
 	atOptions = {
 		'key' : '4e0c2e603b46a55e936c140cfd84b42f',
