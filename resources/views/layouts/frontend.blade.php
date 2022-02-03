@@ -135,18 +135,20 @@
             <div class="container"> 
                 <div class="bottom-area pt-120">
                     <div class="row d-flex header-area">
-                        <div class="col-lg-12 d-flex justify-content-md-between justify-content-center align-items-center">
+                        <div class="col-md-2"> 
                             <div class="logo-section">
                                 <a class="site-logo site-title" href="/"> 
                                     <span class="txt_logo">Gambell</span>
                                     {{-- <img src="{{asset('frontend/assets/images/logo.png')}}" alt="site-logo"> --}}
                                 </a>
                             </div>
-                            <ul class="navbar-nav main-menu d-flex align-items-center"> 
-                                <li><a href="/games">Games</a></li>
-                                <li><a href="/terms_of_service">Terms of Service</a></li>
-                                <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                <li><a href="/contact">Help & Support</a></li> 
+                        </div>
+                        <div class="col-md-10">
+                            <ul class="navbar-nav main-menu d-inline align-items-end"> 
+                                <li style="display: inline-block;"><a href="/games">Games</a></li>
+                                <li style="display: inline-block;"><a href="/terms_of_service">Terms of Service</a></li>
+                                <li style="display: inline-block;"><a href="/privacy-policy">Privacy Policy</a></li>
+                                <li style="display: inline-block;"><a href="/contact">Help & Support</a></li> 
                             </ul>
                         </div> 
                     </div>
