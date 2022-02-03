@@ -457,6 +457,7 @@
     <!-- Counter In end --> 
 
     <!-- faq start -->
+    
     <section id="faq-section">
         <div class="overlay pb-120">
             <div class="container">
@@ -491,9 +492,7 @@
                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                     data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
+                                        <p>Yes you can earn a lot of money on Gamebll but you have to provide good enough time then you could earn. </p>
                                     </div>
                                 </div>
                             </div>
@@ -510,9 +509,7 @@
                                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                     data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
+                                        <p>Ahh here you could spend your time as well</p>
                                     </div>
                                 </div>
                             </div>
@@ -529,69 +526,27 @@
                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
                                     data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
+                                        <p>here don't have any challenge you need to register and then get started playing and earning nothing more and at the end while you will earn a good amount of money then you could cashout them to your account.</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="headingFour">
-                                    <h6 class="mb-0">
-                                        <button class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapseFour" aria-expanded="false"
-                                            aria-controls="collapseFour">
-                                            Can I earn money playing on Gamebll?
-                                        </button>
-                                    </h6>
-                                </div>
-                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
-                                    data-parent="#accordion-one">
-                                    <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
-                                    </div>
-                                </div>
-                            </div>
+                            </div> 
                             <div class="card">
                                 <div class="card-header" id="headingFive">
                                     <h6 class="mb-0">
                                         <button class="btn btn-link collapsed" data-toggle="collapse"
                                             data-target="#collapseFive" aria-expanded="false"
                                             aria-controls="collapseFive">
-                                            Who do I compete against in the challenges?
+                                            Is it secure?
                                         </button>
                                     </h6>
                                 </div>
                                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
                                     data-parent="#accordion-one">
                                     <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
+                                        <p>Yes of course it is secure and so much easy.</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="card">
-                                <div class="card-header" id="headingSix">
-                                    <h6 class="mb-0">
-                                        <button class="btn btn-link collapsed" data-toggle="collapse"
-                                            data-target="#collapseSix" aria-expanded="false"
-                                            aria-controls="collapseSix">
-                                            How does G-Loot collect game data?
-                                        </button>
-                                    </h6>
-                                </div>
-                                <div id="collapseSix" class="collapse" aria-labelledby="headingSix"
-                                    data-parent="#accordion-one">
-                                    <div class="card-body">
-                                        <p>Duis sapien justo, posuere interdum mauris eu, tincidunt placerat ante.
-                                            Curabitur aliquet leo ipsum, at maximus dolor fringilla vel. Aliquam
-                                            sagittis elementum volutpat. Vestibulum vel arcu nisl.</p>
-                                    </div>
-                                </div>
-                            </div>
+                            </div> 
                         </div>
                     </div>
                 </div>
